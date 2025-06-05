@@ -1,1 +1,1 @@
-# Streamlit live dashboard app
+# Multi-symbol Streamlit dashboard

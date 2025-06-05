@@ -1,1 +1,1 @@
-# Pattern score logic
+# Signal strength scoring

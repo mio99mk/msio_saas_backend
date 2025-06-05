@@ -1,1 +1,1 @@
-# Main loop for Phase 3 with logging and monitoring
+# Main loop with multi-pair scanning + signal broadcast

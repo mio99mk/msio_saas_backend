@@ -1,0 +1,1 @@
+# Lightweight trade executor based on master signals

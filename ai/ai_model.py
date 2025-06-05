@@ -1,1 +1,1 @@
-# Prediction models and confidence logic
+# AI model selector for multiple pairs

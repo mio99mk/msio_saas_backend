@@ -1,1 +1,1 @@
-# Candlestick pattern detection
+# Candlestick logic

@@ -1,1 +1,1 @@
-# RSI divergence detection
+# RSI divergence across symbols

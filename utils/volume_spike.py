@@ -1,1 +1,1 @@
-# Whale detection via volume spike
+# Whale detection per pair

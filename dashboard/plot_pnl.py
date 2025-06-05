@@ -1,1 +1,1 @@
-# Streamlit plot PNL graph
+# Streamlit PNL per pair

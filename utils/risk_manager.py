@@ -1,1 +1,1 @@
-# TP/SL, trailing, position sizing
+# Risk engine per pair

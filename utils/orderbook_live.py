@@ -1,1 +1,1 @@
-# Orderbook imbalance detection using WebSocket
+# Live orderbook per symbol

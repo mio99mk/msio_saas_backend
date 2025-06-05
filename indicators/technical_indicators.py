@@ -1,1 +1,1 @@
-# Technical indicators logic
+# Multi-pair indicators handler

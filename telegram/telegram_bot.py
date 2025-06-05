@@ -1,1 +1,1 @@
-# Telegram commands: status, pnl, close_all etc.
+# Telegram commands for all pairs
