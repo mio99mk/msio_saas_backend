@@ -14,3 +14,4 @@ def send_signal_to_backend(symbol, direction, confidence):
         print("Signal sent:", res.status_code, res.json())
     except Exception as e:
         print("Failed to send signal:", e)
+send_signal_to_backend("BTCUSDT", "long", 0.91)
