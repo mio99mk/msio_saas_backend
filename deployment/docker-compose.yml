@@ -1,18 +1,10 @@
+
 version: '3.8'
 services:
-  bot:
+  backend:
     build: .
-    container_name: msio_bot
-    volumes:
-      - .:/app
-    env_file:
-      - .env
-    command: bash run_bot.sh
-  dashboard:
-    image: streamlit
     ports:
-      - '8501:8501'
-    volumes:
-      - .:/app
-    working_dir: /app
-    command: streamlit run dashboard/live_dashboard.py
+      - "8000:8000"
+    environment:
+      MONGO_URI: mongodb+srv://<user>:<pass>@cluster.mongodb.net/mydb
+      STRIPE_SECRET_KEY: sk_test_123

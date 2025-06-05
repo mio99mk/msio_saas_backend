@@ -1,11 +1,6 @@
-pandas
-numpy
-scikit-learn
-xgboost
-streamlit
-python-telegram-bot
-websockets
-matplotlib
-talib
-flask
-requests
+fastapi
+uvicorn
+pymongo
+stripe
+python-dotenv
+python-jose
